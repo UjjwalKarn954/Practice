@@ -1,5 +1,5 @@
 public class SortIntArray{
- public class Swapelement{
+  class Swapelement{
    public void swap(int a,int b){
    int temp=a;
    a=b;
